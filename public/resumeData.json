@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name": "Glenn Pickett",
+    "occupation": "Fullstack Web and Mobile Developer",
+    "description": "I eat, sleep and breathe React and PHP",
+    "image": "donrick.png",
+    "bio": "Hi there! I am Glenn! I've been coding for over 10 years now. As a Full Stack developer I've worked as a freelancer to help build & scale small-medium companies. Along the journey I realized my passion existed in helping others gain and enhance their presence on the web. With this passion, I have now helped several business across the globe. Through continuous learning, I have accumulated several projects demonstrating how to apply developer skills in a range of scenarios. I deliver value by creating projects to help clients deliver their service.",
+    "contactmessage": "Get in touch with me!",
+    "email": "webdesigng@yahoo.com",
+    "phone": "+1 (301)412-5476",
+    "address": {
+      "street": "Washington, DC",
+      "city": "Metropolitan Area",
+      "state": "",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "./docs/Glenn's Resume (4).pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/glenn-dp-pickett/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gdpickett",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Nucamp Coding Bootcamp",
+        "degree": "Fullstack React Web and Mobile Development",
+        "graduated": "October 2021",
+        "description": "Graduated with First Class Honors"
+      }
+    ],
+    "work": [
+      {
+        "company": "Don P Designs",
+        "title": "Freelance Developer",
+        "years": "May 2008 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Clock App",
+        "category": "Next.js react-vfx",
+        "image": "A-Next-Clock-App.jpg",
+        "url": "https://simple-clock-beryl.vercel.app/"
+      },
+      {
+        "title": "NFT Marketplace Demo",
+        "category": "React Axios PHP NFT thirdweb web3",
+        "image": "React-App-@-XTC-Punks.jpg",
+        "url": "https://www.urbanxtc.com"
+      },
+      {
+        "title": "Social Media Demo",
+        "category": "Next.js TailwindCSS Redux SSR Firebase Vercel",
+        "image": "Salon-2-Bomb.jpg",
+        "url": "https://www.salon2bomb.com"
+      },
+      {
+        "title": "Campsite Demo",
+        "category": "React React-Redux Redux-Thunk Express MongoDB Amazon EC2",
+        "image": "React-App.jpg",
+        "url": "http://3.138.189.31/home"
+      }
+    ]
+  },
+  "quotes": {
+    "quotes": [
+      {
+        "text": "Every journey begins with one step",
+        "user": "I forget"
+      }
+    ]
+  }
+}
