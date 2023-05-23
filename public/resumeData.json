@@ -9,13 +9,13 @@
     "email": "webdesigng@yahoo.com",
     "phone": "+1 (301)412-5476",
     "address": {
-      "street": "Washington, DC",
-      "city": "Metropolitan Area",
+      "street": "",
+      "city": "Washington, DC Metropolitan Area",
       "state": "",
       "zip": ""
     },
     "website": "",
-    "resumedownload": "./docs/Glenn's Resume (4).pdf",
+    "resumedownload": "./Glenn's Resume 2023a.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -25,6 +25,11 @@
       {
         "name": "github",
         "url": "https://github.com/gdpickett",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/glenn-pickett",
         "className": "fa fa-github"
       }
     ]
@@ -77,12 +82,6 @@
         "category": "Next.js react-vfx",
         "image": "A-Next-Clock-App.jpg",
         "url": "https://simple-clock-beryl.vercel.app/"
-      },
-      {
-        "title": "NFT Marketplace Demo",
-        "category": "React Axios PHP NFT thirdweb web3",
-        "image": "React-App-@-XTC-Punks.jpg",
-        "url": "https://www.urbanxtc.com"
       },
       {
         "title": "Social Media Demo",
