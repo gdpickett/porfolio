@@ -38,6 +38,12 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
+        "school": "Art Institute of Pittsburgh",
+        "degree": "Web Development and Multimedia Design",
+        "graduated": "October 2015",
+        "description": "Bachelor of Art Degree"
+      },
+      {
         "school": "Nucamp Coding Bootcamp",
         "degree": "Fullstack React Web and Mobile Development",
         "graduated": "October 2021",
